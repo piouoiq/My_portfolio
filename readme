@@ -1,54 +1,83 @@
-Objectif de l'Exercice
-Créer une page web complète qui présente de manière professionnelle tous les exercices réalisés durant votre formation. Cette page servira de vitrine pour vos compétences acquises et constituera un élément central de votre portfolio de développeur.
+# 🌐 Portfolio – Melissa Largilliere
 
-🎯 Compétences Évaluées
-Structure HTML sémantique : Utilisation correcte des éléments HTML5
-Organisation du contenu : Présentation claire et logique des exercices
-Intégration multimédia : Gestion des images et captures d'écran
-Liens externes : Intégration avec GitHub et autres plateformes
-Votre page doit respecter la structure sémantique HTML5 suivante :
+Welcome to my **personal portfolio**!  
+This website showcases my background, projects, and skills in web development.  
+It was built using **HTML** and **CSS**.
 
-Header : Navigation principale et titre du portfolio
-Main : Contenu principal avec sections organisées
-Footer : Informations de contact et liens sociaux
- 
-Contenu Requis
-🏠 Section d'Accueil
-Titre principal
-Brève présentation personnelle (2-3 phrases)
-Photo ou avatar professionnel (optionnel mais recommandé)
-Call-to-action vers la section exercices
-💻 Section Exercices (OBLIGATOIRE)
-Pour chaque exercice réalisé, vous devez inclure :
+---
 
-Titre de l'exercice : Nom explicite et descriptif
-Description courte : 2-3 lignes expliquant l'objectif
-Technologies utilisées : HTML, CSS, JavaScript, etc.
-Capture d'écran : Image représentative de l'exercice
-Lien GitHub : Lien direct vers le repository de l'exercice
-Lien démo : Si l'exercice est hébergé (GitHub Pages, Netlify, Vercel, etc.)
-Date de réalisation : Mois/année ou période
-📞 Footer (OBLIGATOIRE)
-Vos informations de contact (email, téléphone si souhaité)
-Liens vers vos profils professionnels (GitHub, LinkedIn)
-Copyright ou mention légale
-Eventuellement, liens vers CV ou autres portfolios pourront être ajouté plus tard dans la formation 
-Exemple de structures de fichiers 
+## 🧑‍💻 About Me
 
-portfolio-exercices/
+Hi! I’m **Melissa Largilliere**, a student developer at **Ada Tech School**.  
+I’m passionate about creating user-friendly and meaningful projects.
+
+In this portfolio, you’ll find projects I’ve completed during my studies as well as some I continue to improve.
+
+---
+
+## 🧱 Project Structure
+
+### Main Files:
+
+- **`index.html`** → Defines the website structure and content (About, Projects, Contact).
+- **`style.css`** → Handles layout and design for the portfolio.
+
+### Folder Structure:
+
+```
+.
 ├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script_exercice_1.js
-
-│   └── script_exercice_2.js ETC... 
-
+├── style.css
 ├── images/
-│   ├── screenshots/
-│   │   ├── exercice1.png
-│   │   ├── exercice2.jpg
-│   │   └── ...
-│   ├── avatar.jpg
-│   └── favicon.ico
-└── README.md
+│   ├── Melissa.png
+│   ├── background.svg
+│   ├── bjrJS.jpg
+│   ├── guess_a_number.png
+│   ├── html_css_av_ex1.png
+│   ├── html_css_av_ex3.png
+│   └── copyright-svgrepo-com.svg
+├── exercices/
+│   ├── 01_bonjour_javascript.md/
+│   ├── 02_guess_a_number.md/
+│   ├── Exercice-1/
+│   └── Exercice-3/
+└── script.js
+```
+
+---
+
+## 💡 Features
+
+- **About Me Section** — short introduction and portrait.
+- **Projects Section** —
+  - Visual preview of each project.
+  - Direct links to live demos and GitHub repositories.
+- **Footer** — includes links to:
+  - [LinkedIn](https://www.linkedin.com/in/melissa-largilliere/)
+  - [GitHub](https://github.com/piouoiq)
+  - Email for direct contact.
+
+---
+
+## 🎨 Design
+
+The portfolio follows a **clean and modern aesthetic**, featuring:
+
+- Warm accent color (#EE8F15) for key elements.
+- **Grid** and **Flexbox** layout for well-balanced content.
+- **Hover animations** for links and images.
+- Elegant **Google Fonts** (Gruppo, Josefin Sans, Montserrat, Manrope).
+
+---
+
+## 📬 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/melissa-largilliere/)
+- 🐙 [GitHub](https://github.com/piouoiq)
+- ✉️ melargilliere@gmail.com
+
+---
+
+## 🪪 License
+
+© 2025 **Melissa Largilliere** — All rights reserved.
