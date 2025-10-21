@@ -12,7 +12,7 @@ header {
   background-color: #ee8f15;
 }
 body {
-  background-image: url(images/background.svg);
+  background-image: url(../images/background.svg);
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h1 {
   gap: 1rem;
 }
 .socials {
-  color: black;
+  width: 20px;
 }
 footer {
   text-align: center;

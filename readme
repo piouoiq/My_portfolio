@@ -21,27 +21,37 @@ In this portfolio, you’ll find projects I’ve completed during my studies as 
 
 - **`index.html`** → Defines the website structure and content (About, Projects, Contact).
 - **`style.css`** → Handles layout and design for the portfolio.
+- **`script.js`** → Unused for now, in prevision of future updates of this portfolio.
+
 
 ### Folder Structure:
 
 ```
 .
+My_portfolio/
 ├── index.html
-├── style.css
-├── images/
-│   ├── Melissa.png
-│   ├── background.svg
-│   ├── bjrJS.jpg
-│   ├── guess_a_number.png
-│   ├── html_css_av_ex1.png
-│   ├── html_css_av_ex3.png
-│   └── copyright-svgrepo-com.svg
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
 ├── exercices/
 │   ├── 01_bonjour_javascript.md/
 │   ├── 02_guess_a_number.md/
 │   ├── Exercice-1/
 │   └── Exercice-3/
-└── script.js
+├── images/
+│   ├── screenshots/
+│   │   ├── bjrJS.jpg
+│   │   ├── guess_a_number.png
+│   │   ├── html_css_av_ex1.png
+│   │   └── html_css_av_ex3.png
+│   ├── Avatar.png
+│   ├── github.svg
+│   ├── copyright-svgrepo-com.svg
+│   ├── linkedin.svg
+│   └── favicon.ico
+└── README.md
+
 ```
 
 ---
