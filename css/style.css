@@ -5,8 +5,7 @@
 
 header {
   position: sticky;
-  top: 0px;
-  padding: 1rem;
+  padding: 0.5rem;
   font-size: larger;
   text-align: center;
   background-color: #ee8f15;
